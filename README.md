@@ -18,6 +18,13 @@ Simple and clean Password Manager built with C#.
 
 https://youtu.be/MR8cDML2A-A
 
+
+
+https://github.com/user-attachments/assets/1401694c-0d10-467a-b8c9-b94f60a62b4b
+
+
+
+
 ## 🛠️ Built With
 
 * C#
