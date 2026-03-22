@@ -9,6 +9,10 @@ Simple and clean Password Manager built with C#.
 * Show/Hide password
 * Delete with confirmation
 
+exe
+https://www.mediafire.com/file/4ilbqvewrf9qvib/Password_Manager_Pro.rar/file
+
+
 ## 🖼️ Screenshot
 
 <img width="814" height="416" alt="image" src="https://github.com/user-attachments/assets/4e5d6d2a-99be-4957-82f7-72331da1bb0b" />
